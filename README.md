@@ -32,10 +32,11 @@ BFS: 1 2 3 4 ...
 DFS: 1 2 3 4 ...
 Execution Time Comparison
 
-Graph size	BFS time (ns)	 DFS time (ns)
-10         	88,600	       162,600
-30          505,100	       472,900
-100       	2,324,200	     2,470,300
+| Graph size| BFS time (ns) | DFS time (ns) |
+| --- | --- | --- |
+| 10 vertices | 88,600 | 162,600 |
+| 30 vertices | 505,100 | 472,900 |
+| 100 vertices | 2,324,200 | 2,470,300 |
 
 
 
